@@ -1,8 +1,9 @@
 # About the Marathon Multiplayer Enhancement Physics
 lsdjf sldkjf s hfkdsj kj sdhfjk dshf sdkjf jsdjf hsdjk hfksdjh kshd fhqw jhdsfhskdh hfew hfisdhsdhfu sdh sdhf iuhisd hflsdiu fsduh fliusd uhifsdhui filuehfi iweu hidsihufih sifhil sdhlf dsfhl dslf dlshuf sdlfhu dshf hsdlhf hsdl fsdiuh lisfdliuh fsdiulhflsdu sdilh lsdhfu hsdlif liusdhlfsdh liushdfil sdhlfi uhdsli hflisdh dsliufh slidfu lsdiuhf islduhilu shu dsd s dsfsd udsfuishdfhus dih ds ilsdfh lisdf sfjljdf lkj sdlkflks dflks djfih ewfiuh dsjk sdfj
 
-## The Goal
-asdj jsdl sdjf iejf oiwjsoidfs jfdslk fdslfds flj lsfj sdlk fdslk jsdflk dslkfj  sdlkjflk sdl fsdkl ksdlfjsdlkf jldslsd ldfs lsd flsd fsdlfj sdlk lfsd lsd jflskd
+## Goals
+
+- Strategic application of weapons. No dead guns. Every gun should serve a purpose.- Eliminate randomness. It should be possible to estimate your opponents remaining health.- Combine weapons to kill more effectively. Quick weapon switching.- Balance. There should be no gun to rule them all.
 
 # Changes
 
