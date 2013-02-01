@@ -73,9 +73,9 @@ The speed increase now makes the alien weapon actually usable at short and mid r
 Probably the biggest change to the whole arsenal. The SMG is now a sniper with one bullet per magazine. Use them wisely.
 
 # Credits
-Jóhannes Gunnar Þorsteinsson
-http://www.johannesg.com
+Jóhannes Gunnar Þorsteinsson  
+http://www.johannesg.com  
 johannesg@johannesg.com
 
-Göran Svensson
+Göran Svensson  
 goransvensson@gmail.com
