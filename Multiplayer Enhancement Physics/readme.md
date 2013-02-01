@@ -29,7 +29,7 @@ Pistols now act as a very good weapon to finish off a wounded opponent from dist
 	- **Damage Base** increased from **30** to **260**.
 	- **Speed** increased from **256** to **768**.
 
-The plasma pistol is back. Bolts are now fast enough to actually make any difference, and secondary trigger now drains 260 health from your opponent, acting as a great way to take out opponents shields. Works well at short and mid range, in relatively flat areas.
+The plasma pistol is back. Bolts are now fast enough to actually make a difference, and secondary trigger now drains 260 health from your opponent, acting as a great way to take out opponents shields. Works well at short and mid range, in relatively flat areas.
 
 ## Assault Rifle
 - Primary Trigger
