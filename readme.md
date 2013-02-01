@@ -1,8 +1,10 @@
-# About the Marathon Infinity Multiplayer Enhancement Physics
+# About the Marathon Infinity Multiplayer Enhancement Pack v1.0
 
 The original Marathon weapons were not really designed with people in mind. They were designed to be effective against slow and stupid aliens that could not dodge shots and could not operate their weaponry while they were being blasted by the player. Human players are a bit more intelligent, and faster than that.
 
 This physics model addresses those changes and has undergone thorough balance testing during its development. Weapon switching delay is now nearly non-existant and random damage has been taken out of the game. Weapons that would normally never see action in an otherwise SPNKR filled multiplayer match can now go up against a SPNKR armed player under the right conditions.  
+
+Enjoy **MIMEP**.
 
 ## Goals
 
@@ -105,13 +107,20 @@ No changes apart from Damage Base/Random adjustments. The shotguns still work be
 The biggest change in the arsenal. The SMG is now acting as a sniper with one bullet per magazine. The damage and accuracy makes this the most powerful gun in the game. But if you miss, you are doomed.
 
 ## Bug Reports
+
 Thoughts? Bug Reports? Hatemail? Ideas?  
 Send them to johannesg@johannesg.com or file an issue at https://github.com/johannesgunnar/Marathon-Infinity-Multiplayer-Enhancement-Pack/issues
 
 # Credits
+
 Jóhannes Gunnar Þorsteinsson  
 http://www.johannesg.com  
 johannesg@johannesg.com
 
 Göran Svensson  
 goransvensson@gmail.com
+
+# Version Notes
+
+## v1.0 2013-02-01
+- First version uploaded to Simplici7y.
