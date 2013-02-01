@@ -1,8 +1,19 @@
-# About the Marathon Multiplayer Enhancement Physics
+# About the Marathon Infinity Multiplayer Enhancement Physics
 
 ## Goals
 
-- Strategic application of weapons. No dead guns. Every gun should serve a purpose.- Eliminate randomness. It should be possible to estimate your opponents remaining health.- Combine weapons to kill more effectively. Quick weapon switching.- Balance. There should be no gun to rule them all.
+- Strategic application of weapons. No dead guns. Every gun should serve a purpose.
+- Eliminate randomness. It should be possible to estimate your opponents remaining health.
+- Combine weapons to kill more effectively. Quick weapon switching.
+- Balance. There should be no gun to rule them all.
+
+## Notes
+
+- This physics model was not designed with multiplayer modes including monsters in mind.
+- Beta testing was primarily done with one versus one, Every Man for Himself.
+
+## Bug Reports?
+
 
 # Changes
 
