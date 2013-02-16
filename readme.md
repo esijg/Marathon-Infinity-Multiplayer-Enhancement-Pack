@@ -1,5 +1,4 @@
-# About the Marathon Infinity Multiplayer Enhancement Pack v1.0
-
+# About the Marathon Infinity Multiplayer Enhancement Pack v1.5
 The original Marathon weapons were not really designed with people in mind. They were designed to be effective against slow and stupid aliens that could not dodge shots and could not operate their weaponry while they were being blasted by the player. Human players are a bit more intelligent, and faster than that.
 
 This physics model addresses those changes and has undergone thorough balance testing during its development. Weapon switching delay is now nearly non-existant and random damage has been taken out of the game. Weapons that would normally never see action in an otherwise SPNKR filled multiplayer match can now go up against a SPNKR armed player under the right conditions.  
@@ -7,7 +6,6 @@ This physics model addresses those changes and has undergone thorough balance te
 Enjoy **MIMEP**.
 
 ## Goals
-
 - Strategic application of weapons. No dead guns. Every gun should serve a purpose.
 - Eliminate randomness. It should be possible to estimate your opponents remaining health.
 - Combine weapons to kill more effectively. Quick weapon switching.
