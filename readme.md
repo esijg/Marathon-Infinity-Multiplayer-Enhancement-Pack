@@ -1,3 +1,5 @@
+**This project has been migrated to: https://gitlab.com/johannesg/Marathon-Infinity-Multiplayer-Enhancement-Pack**
+
 # About the Marathon Infinity Multiplayer Enhancement Pack v1.5
 The original Marathon weapons were not really designed with people in mind. They were designed to be effective against slow and stupid aliens that could not dodge shots and could not operate their weaponry while they were being blasted by the player. Human players are a bit more intelligent, and faster than that.
 
